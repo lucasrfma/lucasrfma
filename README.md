@@ -11,7 +11,7 @@ A quick summary of my current skills:
 
 - Other technologies I am familiar with via studies are:
   - I am currently working on a personal project with Flutter. It's the Interval Training Timer repo
-  - Dart/Flutter, Rust, C++, C#, C, Python
+  - Dart/Flutter, Rust, NodeJS, C++, C#, C, Python
   - SQL (PostgreSQL)
 
 <!---
