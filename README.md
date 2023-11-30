@@ -2,14 +2,17 @@ Hello, I’m @lucasrfma
 
 Thanks for checking out my github profile! I hope you are having a good day =)
 
-I am working at Instituto Atlântico as a java developer using spring boot to create microsservices.
+I am working at Instituto Atlântico as a java developer using spring boot to create micro-services.
 
 A quick summary of my current skills:
-- The programming language I am currently most comfortable with is Java, but I have also studied C++, Javascript, C#, Python, C, and recently Dart(Flutter).
-- I have used basic .NET features for creating CRUD API's in C# for some courses.
-- Although frontend is not my focus, I have studied html and CSS.
-- I have studied SQL databases, mostly using PostgreSQL. As for non SQL databases, I have a very basic knowledge of MongoDB.
+- I have worked mostly with back-end with Java + Spring boot
+- Although I have less experience with front-end, I have studied and worked a bit with Angular, as well as Salesforce's LWC
+- I have been using MongoDB extensively in my current job, as some rather complex Aggregations are needed sometimes
 
+- Other technologies I am familiar with via studies are:
+  - I am currently working on a personal project with Flutter. It's the Interval Training Timer repo
+  - Dart/Flutter, Rust, C++, C#, C, Python
+  - SQL (PostgreSQL)
 
 <!---
 lucasrfma/lucasrfma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
